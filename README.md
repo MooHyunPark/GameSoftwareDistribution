@@ -26,8 +26,22 @@
 
 <br><br>
 
+### 회원 정보 관리
 
-<br><br><br>
+<br><br><br><br><br><br>
+<p align="center"><img src="https://github.com/user-attachments/assets/cf40edaf-74ad-4426-82ef-8acf092e6ed1" width="700"></p>
+<p align="center">
+  MySQL user 테이블 자료의 일부분입니다.<br>
+   모든 비밀번호는 직접 작성한 메소드를 통해 암호화된 상태로 데이터 베이스에 저장될 수 있도록 구성하였습니다.
+</p>
+
+
+<br><br><br><br><br><br>
+<p align="center"><img src="https://github.com/user-attachments/assets/58a81bc6-ae9a-4da2-99fb-fec35154687d" width="700"></p>
+<p align="center">
+  로그인을 할 수 있는 화면입니다.
+   랜덤한 확률로 광고를 넣을 수 있도록 추가 요소를 구현해보았습니다.
+</p>
 
 ex : 기존의 쇼핑몰 필터 예제
 <br><br><br>
