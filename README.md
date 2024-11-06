@@ -64,9 +64,11 @@
 
 <br><br><br><br><br><br>
 
+<p align="center"><img src="https://github.com/user-attachments/assets/340127b3-c6a3-4ac5-9e89-ceebb73266c2" width="600"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/8c46372e-2cef-4507-bc77-0ec8f425fac7" width="600"></p>
 
-<img src="https://github.com/user-attachments/assets/340127b3-c6a3-4ac5-9e89-ceebb73266c2" width="400">
-<img src="https://github.com/user-attachments/assets/8c46372e-2cef-4507-bc77-0ec8f425fac7" width="500">
+
+
 
 <p align="center">
    회원가입과 회원정보 화면입니다.<br>
@@ -74,10 +76,12 @@
 </p>
 <br><br><br><br><br><br>
 
-<img src="https://github.com/user-attachments/assets/2ee02783-9e8d-45af-b8e2-3c1879835075" width="100" height="400">
-<img src="https://github.com/user-attachments/assets/60b2f718-5414-4257-bdaf-57068d31bc5b" width="400" height="400">
-<img src="https://github.com/user-attachments/assets/121feff0-493d-4519-ba05-533356453b40" width="400" height="400">
 
+
+
+<p align="center"><img src="https://github.com/user-attachments/assets/2ee02783-9e8d-45af-b8e2-3c1879835075" width="100" height="400"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/60b2f718-5414-4257-bdaf-57068d31bc5b" width="400" height="400"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/121feff0-493d-4519-ba05-533356453b40" width="400" height="400"></p>
 <p align="center">
    게임 필터 화면, 게임 상세 페이지, 장바구니 화면입니다.<br>
    
@@ -97,8 +101,11 @@
 <br><br><br><br><br><br>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/854634c0-5309-4e58-9f00-b889dfe491e4" width="1000"></p>
-<img src="https://github.com/user-attachments/assets/4b109f9e-b0df-4222-89cf-f1ca92cb8ca6" width="500">
-<img src="https://github.com/user-attachments/assets/a1cf8e1a-b645-497a-bfd6-6ae067486d98" width="500">
+
+
+
+<p align="center"><img src="https://github.com/user-attachments/assets/4b109f9e-b0df-4222-89cf-f1ca92cb8ca6" width="500"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/a1cf8e1a-b645-497a-bfd6-6ae067486d98" width="500"></p>
 
 <p align="center">
    관리자로 로그인하는 경우 게임 상품 추가와 수정을 할 수 있도록 추가 요소를 구성하였습니다.<br>
