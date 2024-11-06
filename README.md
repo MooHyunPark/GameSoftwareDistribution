@@ -79,9 +79,8 @@
 
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/2ee02783-9e8d-45af-b8e2-3c1879835075" width="100" height="400"></p>
-<p align="center"><img src="https://github.com/user-attachments/assets/60b2f718-5414-4257-bdaf-57068d31bc5b" width="400" height="600"></p>
-<p align="center"><img src="https://github.com/user-attachments/assets/121feff0-493d-4519-ba05-533356453b40" width="400" height="600"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/2ee02783-9e8d-45af-b8e2-3c1879835075" width="100" height="400"><img src="https://github.com/user-attachments/assets/60b2f718-5414-4257-bdaf-57068d31bc5b" width="600"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/121feff0-493d-4519-ba05-533356453b40" width="600""></p>
 <p align="center">
    게임 필터 화면, 게임 상세 페이지, 장바구니 화면입니다.<br>
    
